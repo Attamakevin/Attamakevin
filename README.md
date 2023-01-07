@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Attamakevin
-- 👀 I’m interested in coding and software Engineering
-- 🌱 I’m currently learning software Engineering on ALX
-- 💞️ I’m looking to collaborate on coding ideas
-- 📫 How to reach me you can reach via email or Whatsapp me on +2348063085647
+              Hi 👋, I'm Attamakevin
+    An intern SE student
+🔭 I’m currently an Intern student in https://www.alxafrica.com/software-engineering-2022/
+👯 I’m looking to collaborate on any project that involves c, python, Bash scripting, Linux system admin as those are the knowledge i have as of now
 
-<!---
-Attamakevin/Attamakevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 I’m looking for more expereince With projects and internship opportunities in being a better SE
+
+💬 Ask me about c, Python, Javascript, SQL, BASH Scripting, Web Servers (Nginx, Apache)
+
+📫 You can reach me via kevinejikez@gmail.com
+
+⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
